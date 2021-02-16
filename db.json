@@ -1,0 +1,84 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "kategori": "special",
+            "nama": "9 Bucket",
+            "deskripsi": "9 potong ayam dengan saus pedas",
+            "harga":  99000,
+            "gambar": "bucket.jpg"
+        },
+        {
+            "id": 2,
+            "kategori": "special",
+            "nama": "Super Family HCC",
+            "deskripsi": "3 nasi dan 5 potong ayam, 3 minuman, menu disajikan untuk keluarga",
+            "harga": 103000,
+            "gambar": "chiken.jpg"
+        },
+        {
+            "id": 3,
+            "kategori": "special",
+            "nama": "Wings Bucket",
+            "deskripsi": "7 potong sayap ayam dengan saus pedas",
+            "harga": 68000,
+            "gambar": "bucket.jpg"
+        },
+        {
+            "id": 4,
+            "kategori": "special",
+            "nama": "Winger Combo BBQ",
+            "deskripsi": ": 1 nasi,  dan 3 sayap ayam, 1 minuman cola selera BBQ",
+            "harga": 40000,
+            "gambar": "bbq.jpg"
+        },
+        {
+            "id": 5,
+            "kategori": "special",
+            "nama": "Snack Bucket BBQ",
+            "deskripsi": "kentang goreng, 5 ptg ayam, tahu bulat goreng",
+            "harga": 34000,
+            "gambar": "bbq.jpg"
+        },
+        {
+            "id": 6,
+            "kategori": "combo",
+            "nama": "fish fillet combo",
+            "deskripsi": "Fish Fillet + French Fries + Minuman",
+            "harga": 46000,
+            "gambar": "fish.jpg"
+        },
+        {
+            "id": 7,
+            "kategori": "combo",
+            "nama": "crispy box",
+            "deskripsi": "Nasi + Ayam + Chicken Strips + Minuman",
+            "harga": 39000,
+            "gambar": "krunch.jpg"
+        },
+        {
+            "id": 8,
+            "kategori": "combo",
+            "nama": "colonel yakiniku combo",
+            "deskripsi": "Colonel Yakiniku + Wingers + Minuman",
+            "harga": 35000,
+            "gambar": "colonel.png"
+        },
+        {
+            "id": 9,
+            "kategori": "combo",
+            "nama": "zuper krunch",
+            "deskripsi": "Zuper Krunch + French Fries + Minuman",
+            "harga": 31000,
+            "gambar": "krunch.jpg"
+        },
+        {
+            "id": 10,
+            "kategori": "combo",
+            "nama": "zuper box",
+            "deskripsi": "Nasi + Ayam + Zuper Krunch + Minuman",
+            "harga": 40000,
+            "gambar": "wing.jpg"
+        }
+    ]
+}
